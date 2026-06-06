@@ -1,0 +1,10 @@
+streamlit>=1.32
+torch>=2.2
+torchvision>=0.17
+timm>=1.0
+pillow
+numpy
+pandas
+fpdf2
+opencv-python-headless
+requests
